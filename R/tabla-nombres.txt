@@ -1,0 +1,4 @@
+Nombre	)tApellidos	Edad	Mascota
+Nombre	)tApellidos	Edad	Mascota
+Lola	Súarez Fernández	21	Bruno
+Alba	Roca Sanz	35	Aby
